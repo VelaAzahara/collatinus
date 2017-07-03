@@ -28,7 +28,7 @@
 3:acusativo singular
 4:genitivo singular
 5:dativo singular
-6:ablitivo singular
+6:ablativo singular
 7:nominativo plural
 8:vocativo plural
 9:accusativo plural
