@@ -143,72 +143,72 @@
 118:genitivo neutro plural superlativo 
 119:dativo neutro plural superlativo 
 120:ablativo neutro plural superlativo 
-121:1ªra singular indicativo  presente activo 
-122:2ªda singular indicativo presente activo 
-123:3ªra singular indicativo presente activo 
-124:1ªra plural indicativo presente activo 
-125:2ªda plural indicativo presente activo 
-126:3ªra plural indicativo presente activo 
-127:1ªra singular indicativo imperfecto activo 
-128:2ªda singular indicativo imperfecto activo 
-129:3ªra singular indicativo imperfecto activo 
-130:1ªra plural indicativo imperfecto activo 
-131:2ªda plural indicativo imperfecto activo 
-132:3ªra plural indicativo imperfecto activo 
-133:1ªra singular indicativo futuro activo 
-134:2ªda singular indicativo futuro activo 
-135:3ªra singular indicativo futuro activo 
-136:1ªra plural indicativo futuro activo 
-137:2ªda plural indicativo futuro activo 
-138:3ªra plural indicativo futuro activo 
-139:1ªra singular indicativo perfecto activo 
-140:2ªda singular indicativo perfecto activo 
-141:3ªra singular indicativo perfecto activo 
-142:1ªra plural indicativo perfecto activo 
-143:2ªda plural indicativo perfecto activo 
-144:3ªra plural indicativo perfecto activo 
-145:1ªra singular indicativo pluscuamperfecto activo 
-146:2ªda singular indicativo pluscuamperfecto activo 
-147:3ªra singular indicativo pluscuamperfecto activo 
-148:1ªra plural  indicativo pluscuamperfecto activo 
-149:2ªda plural indicativo pluscuamperfecto activo 
-150:3ªra plural indicativo pluscuamperfecto activo 
-151:1ªra singular indicativo futuro perfecto activo 
-152:2ªda singular indicativo futuro perfecto activo 
-153:3ªra singular indicativo futuro perfecto activo 
-154:1ªra plural indicativo futuro perfecto activo 
-155:2ªda plural indicativo futuro perfecto activo 
-156:3ªra plural indicativo futuro perfecto activo 
-157:1ªra singular subjuntivo presente activo 
-158:2ªda singular subjuntivo presente activo 
-159:3ªra singular subjuntivo presente activo 
-160:1ªra plural subjuntivo presente activo 
-161:2ªda plural subjuntivo presente activo 
-162:3ªra plural subjuntivo presente activo 
-163:1ªra singular subjuntivo imperfecto activo 
-164:2ªda singular subjuntivo imperfecto activo 
-165:3ªra singular subjuntivo imperfecto activo 
-166:1ªra plural subjuntivo imperfecto activo 
-167:2ªda plural subjuntivo imperfecto activo 
-168:3ªra plural subjuntivo imperfecto activo 
-169:1ªra singular subjuntivo perfecto activo 
-170:2ªda singular subjuntivo perfecto activo 
-171:3ªra singular subjuntivo perfecto activo 
-172:1ªra plural subjuntivo perfecto activo 
-173:2ªda plural subjuntivo perfecto activo 
-174:3ªra plural subjuntivo perfecto activo 
-175:1ªra singular subjuntivo pluscuamperfecto activo 
-176:2ªda singular subjuntivo pluscuamperfecto activo 
-177:3ªra singular subjuntivo pluscuamperfecto activo 
-178:1ªra singular presente imperativo activo 
-179:2ªda singular presente imperativo activo 
-180:3ªra singular presente imperativo activo 
-181:2ªda singular presente imperativo activo 
-182:2ªda plural presente imperativo activo 
-183:2ªda singular futuro imperativo activo 
-184:3ªra singular futuro imperativo activo 
-185:2ªda plural futuro imperativo activo 
-186:3ªra plural futuro imperativo activo 
+121:1ª singular indicativo  presente activo 
+122:2ª singular indicativo presente activo 
+123:3ª singular indicativo presente activo 
+124:1ª plural indicativo presente activo 
+125:2ª plural indicativo presente activo 
+126:3ª plural indicativo presente activo 
+127:1ª singular indicativo imperfecto activo 
+128:2ª singular indicativo imperfecto activo 
+129:3ª singular indicativo imperfecto activo 
+130:1ª plural indicativo imperfecto activo 
+131:2ª plural indicativo imperfecto activo 
+132:3ª plural indicativo imperfecto activo 
+133:1ª singular indicativo futuro activo 
+134:2ª singular indicativo futuro activo 
+135:3ª singular indicativo futuro activo 
+136:1ª plural indicativo futuro activo 
+137:2ª plural indicativo futuro activo 
+138:3ª plural indicativo futuro activo 
+139:1ª singular indicativo perfecto activo 
+140:2ª singular indicativo perfecto activo 
+141:3ª singular indicativo perfecto activo 
+142:1ª plural indicativo perfecto activo 
+143:2ª plural indicativo perfecto activo 
+144:3ª plural indicativo perfecto activo 
+145:1ª singular indicativo pluscuamperfecto activo 
+146:2ª singular indicativo pluscuamperfecto activo 
+147:3ª singular indicativo pluscuamperfecto activo 
+148:1ª plural  indicativo pluscuamperfecto activo 
+149:2ª plural indicativo pluscuamperfecto activo 
+150:3ª plural indicativo pluscuamperfecto activo 
+151:1ª singular indicativo futuro perfecto activo 
+152:2ª singular indicativo futuro perfecto activo 
+153:3ª singular indicativo futuro perfecto activo 
+154:1ª plural indicativo futuro perfecto activo 
+155:2ª plural indicativo futuro perfecto activo 
+156:3ª plural indicativo futuro perfecto activo 
+157:1ª singular subjuntivo presente activo 
+158:2ª singular subjuntivo presente activo 
+159:3ª singular subjuntivo presente activo 
+160:1ª plural subjuntivo presente activo 
+161:2ª plural subjuntivo presente activo 
+162:3ª plural subjuntivo presente activo 
+163:1ª singular subjuntivo imperfecto activo 
+164:2ª singular subjuntivo imperfecto activo 
+165:3ª singular subjuntivo imperfecto activo 
+166:1ª plural subjuntivo imperfecto activo 
+167:2ª plural subjuntivo imperfecto activo 
+168:3ª plural subjuntivo imperfecto activo 
+169:1ª singular subjuntivo perfecto activo 
+170:2ª singular subjuntivo perfecto activo 
+171:3ª singular subjuntivo perfecto activo 
+172:1ª plural subjuntivo perfecto activo 
+173:2ª plural subjuntivo perfecto activo 
+174:3ª plural subjuntivo perfecto activo 
+175:1ª singular subjuntivo pluscuamperfecto activo 
+176:2ª singular subjuntivo pluscuamperfecto activo 
+177:3ª singular subjuntivo pluscuamperfecto activo 
+178:1ª singular presente imperativo activo 
+179:2ª singular presente imperativo activo 
+180:3ª singular presente imperativo activo 
+181:2ª singular presente imperativo activo 
+182:2ª plural presente imperativo activo 
+183:2ª singular futuro imperativo activo 
+184:3ª singular futuro imperativo activo 
+185:2ª plural futuro imperativo activo 
+186:3ª plural futuro imperativo activo 
 187:infinitivo presente activo 
 188:infinitivo perfecto activo 
 189:nominativo masculino singular participio presente activo 
@@ -289,41 +289,41 @@
 264:gerundio ablativo 
 265:supino  en -um
 266:supino en -u
-267:1ªra singular indicativo presente pasivo 
-268:2ªda singular indicativo presente pasivo 
-269:3ªra singular indicativo presente pasivo 
-270:1ªra plural indicativo presente pasivo 
-271:2ªda plural indicativo presente pasivo 
-272:3ªra plural indicativo presente pasivo 
-273:1ªra singular indicativo imperfecto pasivo 
-274:2ªda singular indicativo imperfecto pasivo 
-275:3ªra singular indicativo imperfecto pasivo 
-276:1ªra plural indicativo imperfecto pasivo 
-277:2ªda plural indicativo imperfecto pasivo 
-278:3ªra plural indicativo imperfecto pasivo 
-279:1ªra singular indicativo futuro pasivo 
-280:2ªda singular indicativo futuro pasivo 
-281:3ªra singular indicativo futuro pasivo 
-282:1ªra plural indicativo futuro pasivo 
-283:2ªda plural indicativo futuro pasivo 
-284:3ªra plural indicativo futuro pasivo 
-285:1ªra singular subjuntivo presente pasivo 
-286:2ªda singular subjuntivo presente pasivo 
-287:3ªra singular subjuntivo presente pasivo 
-288:1ªra plural subjuntivo presente pasivo 
-289:2ªda plural subjuntivo presente pasivo 
-290:3ªra plural subjuntivo presente pasivo 
-291:1ªra singular subjuntivo imperfecto pasivo 
-292:2ªda singular subjuntivo imperfecto pasivo 
-293:3ªra singular subjuntivo imperfecto pasivo 
-294:1ªra plural subjuntivo imperfecto pasivo 
-295:2ªda plural subjuntivo imperfecto pasivo 
-296:3ªra plural subjuntivo imperfecto pasivo 
-297:2ªda singular imperativo presente pasivo 
-298:2ªda plural imperativo presente pasivo 
-299:2ªda singular imperativo futuro pasivo 
-300:3ªra singular imperativo futuro pasivo 
-301:3ªra plural imperativo futuro pasivo 
+267:1ª singular indicativo presente pasivo 
+268:2ª singular indicativo presente pasivo 
+269:3ª singular indicativo presente pasivo 
+270:1ª plural indicativo presente pasivo 
+271:2ª plural indicativo presente pasivo 
+272:3ª plural indicativo presente pasivo 
+273:1ª singular indicativo imperfecto pasivo 
+274:2ª singular indicativo imperfecto pasivo 
+275:3ª singular indicativo imperfecto pasivo 
+276:1ª plural indicativo imperfecto pasivo 
+277:2ª plural indicativo imperfecto pasivo 
+278:3ª plural indicativo imperfecto pasivo 
+279:1ª singular indicativo futuro pasivo 
+280:2ª singular indicativo futuro pasivo 
+281:3ª singular indicativo futuro pasivo 
+282:1ª plural indicativo futuro pasivo 
+283:2ª plural indicativo futuro pasivo 
+284:3ª plural indicativo futuro pasivo 
+285:1ª singular subjuntivo presente pasivo 
+286:2ª singular subjuntivo presente pasivo 
+287:3ª singular subjuntivo presente pasivo 
+288:1ª plural subjuntivo presente pasivo 
+289:2ª plural subjuntivo presente pasivo 
+290:3ª plural subjuntivo presente pasivo 
+291:1ª singular subjuntivo imperfecto pasivo 
+292:2ª singular subjuntivo imperfecto pasivo 
+293:3ª singular subjuntivo imperfecto pasivo 
+294:1ª plural subjuntivo imperfecto pasivo 
+295:2ª plural subjuntivo imperfecto pasivo 
+296:3ª plural subjuntivo imperfecto pasivo 
+297:2ª singular imperativo presente pasivo 
+298:2ª plural imperativo presente pasivo 
+299:2ª singular imperativo futuro pasivo 
+300:3ª singular imperativo futuro pasivo 
+301:3ª plural imperativo futuro pasivo 
 302:infinitivo presente pasivo 
 303:nominativo masculino singular participio perfecto pasivo 
 304:vocativo masculino singular participio perfecto pasivo 
@@ -474,7 +474,7 @@ PASIVO
 ! --- Mots clefs
 caso 
 persona 
-2ªda presente 
-2ªda futuro 
-3ªra futuro 
+2ª presente 
+2ª futuro 
+3ª futuro 
 
